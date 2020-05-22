@@ -1,4 +1,4 @@
-programfile = open('/root/mlops/Mlops/cnnmodel.py','r')
+programfile = open('/root/mlops/Mlops/Mlops/cnnmodel.py','r')
 code = programfile.read()
 
 if 'keras' or 'tensorflow' in code :
