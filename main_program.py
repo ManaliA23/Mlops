@@ -47,9 +47,9 @@ import smtplib, ssl
 
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
-sender_email = "manaliagrawal23@gmail.com"  # Enter your address
-receiver_email = "manaliagrawal23@gmail.com"  # Enter receiver address
-password = 'manali23' # Enter password
+sender_email = "********.com"  # Enter your address
+receiver_email = "**************.com"  # Enter receiver address
+password = '********' # Enter password
 if accuracy > 98:
     message = """\
 Subject: model-prediction 
